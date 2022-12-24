@@ -1,3 +1,3 @@
 # Pagina-Web-con-Python
 
-Pagina Web utilizando flask en python con el profe Simón
+Pagina Web estatica utilizando flask en python.
