@@ -1,2 +1,3 @@
-# python_page
-Aplicacion con python utilizando la libreria flask.
+# Pagina-Web-con-Python
+
+Pagina Web utilizando flask en python con el profe Simón
